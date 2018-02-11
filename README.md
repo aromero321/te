@@ -34,7 +34,7 @@ You will create a class called MyHashMap that maps keys to values. This hash map
 
 h(k) == the value produced by putting k into the hash function listed above 
 
-
+`
 ● insert(k, v)
 	Adds the value, v, to the table at the index h(k). If there is no value here, place the value, v, in this index, if there is a value here, replace that value.
 
@@ -61,17 +61,16 @@ h(k) == the value produced by putting k into the hash function listed above
 	Prints out the elements of your table. The output for this method is specified below.
 	This method is used for debugging purposes to help you.
 
-● Two constructors. 
+● Two constructors
 	One with no parameters that creates a table with an internal
 	array of default size 100. One that takes an integer n as a parameter and creates
 	an array of size n to be used by the structure.
-
+`
 NOTES:
 	If the number of elements in the hash table ever equals the size of the table, then you should double
 	the table's size. (If using an array what must you do to the emelements already in the table?)
 
-	The printTable method should print out every entry in the table. You can print the information however
-	you would like as long as it makes sense to you and you explain it via commenets.
+    The printTable method should print out every entry in the table. You can print the information however you would like as long as it makes sense to you and you explain it via commenets.
 
 	The following in an example of one way to print the information:
 		Index 0: null
