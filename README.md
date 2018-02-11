@@ -8,19 +8,20 @@ class in Java. However, in this assignment you will implement your own version o
 
 First, you should read up on what a hash table is. [Wikipedia](https://en.wikipedia.org/wiki/Hash_table) is a good place to start.
 
-At its heart a hash table (hash map) is an array that works together with a function, 
-known as a hash function, that takes a key and returns an index into that array.
-A critical part of writing a good hash map implementation is writing a good
-(and appropriate) hash function. It must spread out values evenly based on different 
-input values and needs to always produce the same value if the same element is given to it.
+At its heart a hash table (hash map) is an array that works together with a function,
+known as a hash function, that takes a key and returns an index into that array. We
+usually call the elements in the array buckets. A critical part of writing a good
+hash map implementation is writing a good (and appropriate) hash function. It must
+spread out values evenly based on different input values and needs to always produce
+the same value if the same element is given to it.
 
 
 There are multiple ways to implement a hash map, here are a three:
-	An array that contains a linked list
-	A linked list that holds an other linked list, 2d linked list
-	An array that contains another array, a 2d array.
+	* An array that contains a linked list
+	* A linked list that holds an other linked list (2d linked list)
+	* An array that contains another array (a 2d array)
 
-YOU MUST IMPLEMENT AT LEAST TWO OF THESE!!
+**YOU MUST IMPLEMENT AT LEAST TWO OF THESE!!**
 
 
 For this assignment, you will be implementing your own HashMap class using the following hash function.
