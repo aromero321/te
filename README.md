@@ -34,7 +34,7 @@ You will create a class called MyHashMap that maps keys to values. This hash map
 
 h(k) == the value produced by putting k into the hash function listed above 
 
-
+You must implement the following methods
 * insert(k, v)
 	Adds the value, v, to the table at the index h(k). If there is no value here, place the value, v, in this index, if there is a value here, replace that value.
 
