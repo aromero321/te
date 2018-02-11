@@ -20,8 +20,8 @@ frequently occur in job interviews.
 You will be redoing PA2-HashMap with your own HashMap implementation.
 
 ### The New
-Hash Map Implementation
 
+####Hash Map Implementation
 
 A hash table is a data structure that offers very quick operations such as inserting data
 and searching for data. You have used a form of a hash table when using the HashMap
@@ -109,67 +109,18 @@ The following in an example of one way to print the information:
 
 
 
+You will also be comparing and contrasting the two implementations that you have
+chosen. This will all be written in the README.md file in your PA5 folder.
+Stuff to think about:
+- What are some benefits in using these specific data structures?
+- What are some weaknesses.
+- Which implementation is faster for indexing? 
+- Which implementation is faster for deletion?
+- Which implementation do you think was more difficult to implement?
+  - Why?
 
 
+### The Old
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-In their README.md file, they will need to compare and contrast the two
-implementations they chose to do.  Come up with specific metrics for them
-to do that.
-
-Be careful with this assignment.  It should be less work than the previous 
-assignments because during this week students will be doing their first
-peer review.
-
-
-Logistics:
-* You need to be assigned the associated issue #19 to
-start working on this assignment.  There are a lot of you and
-only one of you should be working on each assignment draft.
-
-* Draft the assignment in this README, the solution in this
-directory, and provide a test case for each command.
-  * The test cases should be in a PublicTestCases/ subdirectory 
-  like the PA1-Gradenator-Key.  Files in there should be called
-  something like before-game.cmdline and before-game.out.
-  * See the PA-and-Sections-Writeups for how
-  the writeup should be formatted.
-  * Edit all of this on your own fork of this repository.  When 
-  you are ready for a proof read do a pull request.  If you have 
-  any questions just send email and/or put a comment on issue #19
-  in the CS210Spring2018 repository.
-
-
+See [the PA2 Writeup](https://github.com/UACS210Spring2018/PA-and-Section-Writeups/tree/master/PA2-HashMap-Writeup)
 
