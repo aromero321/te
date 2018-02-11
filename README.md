@@ -47,6 +47,7 @@ There are multiple ways to implement a hash map, here are a three:
 
 
 For this assignment, you will be implementing your own HashMap class using the following hash function.
+<br />
 **[TODO: FIND A USABLE HASH FUNCTION THAT GIVES LOW NUMBER OF CONFLICTS]**
 
 
