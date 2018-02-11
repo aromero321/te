@@ -36,34 +36,34 @@ h(k) == the value produced by putting k into the hash function listed above
 
 You must implement the following methods
 ```
-* insert(k, v)
+insert(k, v)
 	Adds the value, v, to the table at the index h(k). If there is no value here, place the value, v,
 	in this index, if there is a value here, replace that value.
 
-* remove(k) 
+remove(k) 
 	Removes the value from the table at the index of string k, if it's there. If not, this does nothing. 
 
-* getValue(k) 
+getValue(k) 
 	Returns the value from the table that is mapped to key k, if there is a value associated with k.
 	If there is no such, then it should return -1 for any numeric value or NULL for any object value.
 	(Note: It's good practice to return something that indicates the key was empty)
 
-* contains(k)
+contains(k)
 	Returns true if there is a value in the table associated with key k, and false otherwise.
 
-* size() 
+size() 
 	Returns the number of values currently being stored in the table.
 
-* capacity()
+capacity()
 	Returns the number of buckets (size of the array) being used by the structure.
 	(Note size() returns how many things are currently being stored and capacity
 	returns how many buckets there are to store things.)
 
-* printTable() 
+printTable() 
 	Prints out the elements of your table. The output for this method is specified below.
 	This method is used for debugging purposes to help you.
 
-* Two constructors
+Two constructors
 	One with no parameters that creates a table with an internal
 	array of default size 100. One that takes an integer n as a parameter and creates
 	an array of size n to be used by the structure.
