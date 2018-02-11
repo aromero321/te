@@ -6,8 +6,7 @@ and searching for data. You have used a form of a hash table when using the Hash
 class in Java. However, in this assignment you will implement your own version of a hash map.
 
 
-First, you should read up on what a hash table is. Wikipedia is a good place to start:
-https://en.wikipedia.org/wiki/Hash_table
+First, you should read up on what a hash table is. [Wikipedia](https://en.wikipedia.org/wiki/Hash_table) is a good place to start.
 
 At its heart a hash table (hash map) is an array that works together with a function, 
 known as a hash function, that takes a key and returns an index into that array.
