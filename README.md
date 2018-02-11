@@ -75,6 +75,6 @@ NOTES:
    explain it via commenets.
 
    The following in an example of one way to print the information:
-   Index 0: null
-   Index 1: 11 -> 44
-   Index 2: 22
+    Index 0: null
+    Index 1: 11 -> 44
+    Index 2: 22
