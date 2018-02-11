@@ -108,6 +108,8 @@ The following in an example of one way to print the information:
 	Index 1: 11 -> 44
 	Index 2: 22
 
+If you were to run your PA2 with the new HashMap class, but replace all of the old method calls
+with the new ones, it should function the exact same.
 
 
 You will also be comparing and contrasting the two implementations that you have
@@ -121,12 +123,12 @@ Stuff to think about:
   - Why?
 
 
+
 ### The Old
 
 See [the PA2 Writeup](https://github.com/UACS210Spring2018/PA-and-Section-Writeups/tree/master/PA2-HashMap-Writeup)
 
 
-
 ## Submission
 
-For PA5, you are **required** to submit your PA5Main.java file to Gradescope.
+For PA5, you are **REQUIRED** to submit your PA5Main.java file to Gradescope.
