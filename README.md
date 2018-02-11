@@ -70,7 +70,9 @@ NOTES:
 	If the number of elements in the hash table ever equals the size of the table, then you should double
 	the table's size. (If using an array what must you do to the emelements already in the table?)
 
-    The printTable method should print out every entry in the table. You can print the information however you would like as long as it makes sense to you and you explain it via commenets.
+	The printTable method should print out every entry in the table. You can print
+	the information however would like as long as it makes sense to you and you
+	explain it via commenets.
 
 	The following in an example of one way to print the information:
 		Index 0: null
