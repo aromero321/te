@@ -1,3 +1,25 @@
+# PA5-HashMapImpl-Key
+Key and initial writeup draft for PA5.
+
+## Learning Objectives
+
+The goal of this assignment is to use two or more datastructures
+in a coordinated way to solve a problem.
+
+The problem to be solved in this assignment is to implement a 
+HashMap.  Therefore an additional learning objective is to 
+increase your skill level with HashMaps from just being able 
+to use them to understanding how to implement them.
+
+The dictionary abstract data type can be used to solve many
+programming problems and therefore questions about hash tables 
+frequently occur in job interviews.
+
+## The Assignment
+
+You will be redoing PA2-HashMap with your own HashMap implementation.
+
+### The New
 Hash Map Implementation
 
 
@@ -84,3 +106,70 @@ The following in an example of one way to print the information:
 	Index 0: null
 	Index 1: 11 -> 44
 	Index 2: 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In their README.md file, they will need to compare and contrast the two
+implementations they chose to do.  Come up with specific metrics for them
+to do that.
+
+Be careful with this assignment.  It should be less work than the previous 
+assignments because during this week students will be doing their first
+peer review.
+
+
+Logistics:
+* You need to be assigned the associated issue #19 to
+start working on this assignment.  There are a lot of you and
+only one of you should be working on each assignment draft.
+
+* Draft the assignment in this README, the solution in this
+directory, and provide a test case for each command.
+  * The test cases should be in a PublicTestCases/ subdirectory 
+  like the PA1-Gradenator-Key.  Files in there should be called
+  something like before-game.cmdline and before-game.out.
+  * See the PA-and-Sections-Writeups for how
+  the writeup should be formatted.
+  * Edit all of this on your own fork of this repository.  When 
+  you are ready for a proof read do a pull request.  If you have 
+  any questions just send email and/or put a comment on issue #19
+  in the CS210Spring2018 repository.
+
+
+
