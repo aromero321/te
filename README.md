@@ -17,9 +17,9 @@ the same value if the same element is given to it.
 
 
 There are multiple ways to implement a hash map, here are a three:
-	* An array that contains a linked list
-	* A linked list that holds an other linked list (2d linked list)
-	* An array that contains another array (a 2d array)
+- An array that contains a linked list
+- A linked list that holds an other linked list (2d linked list)
+- An array that contains another array (a 2d array)
 
 **YOU MUST IMPLEMENT AT LEAST TWO OF THESE!!**
 
