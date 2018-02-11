@@ -125,3 +125,8 @@ Stuff to think about:
 
 See [the PA2 Writeup](https://github.com/UACS210Spring2018/PA-and-Section-Writeups/tree/master/PA2-HashMap-Writeup)
 
+
+
+## Submission
+
+For PA5, you are **required** to submit your PA5Main.java file to Gradescope.
