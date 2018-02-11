@@ -21,7 +21,7 @@ You will be redoing PA2-HashMap with your own HashMap implementation.
 
 ### The New
 
-####Hash Map Implementation
+#### Hash Map Implementation
 
 A hash table is a data structure that offers very quick operations such as inserting data
 and searching for data. You have used a form of a hash table when using the HashMap
